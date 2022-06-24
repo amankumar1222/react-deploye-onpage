@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amankumar1222/react-deploye-onpage/static/css/main.135e55fb.css",
+    "main.js": "/amankumar1222/react-deploye-onpage/static/js/main.df20d3d2.js",
+    "static/js/787.8f64bcd7.chunk.js": "/amankumar1222/react-deploye-onpage/static/js/787.8f64bcd7.chunk.js",
+    "static/media/logo.svg": "/amankumar1222/react-deploye-onpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/amankumar1222/react-deploye-onpage/index.html",
+    "main.135e55fb.css.map": "/amankumar1222/react-deploye-onpage/static/css/main.135e55fb.css.map",
+    "main.df20d3d2.js.map": "/amankumar1222/react-deploye-onpage/static/js/main.df20d3d2.js.map",
+    "787.8f64bcd7.chunk.js.map": "/amankumar1222/react-deploye-onpage/static/js/787.8f64bcd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135e55fb.css",
+    "static/js/main.df20d3d2.js"
+  ]
+}
